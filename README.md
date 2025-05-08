@@ -2,7 +2,7 @@
 
 A modern web-based language translation tool built using **HTML**, **CSS**, and **JavaScript**, powered by the **Google Translate API**.
 
-[🔗 Demo Link](#) <!-- Replace # with your live project URL -->
+[🔗 Demo Link](language-translator-pink.vercel.app) 
 
 ---
 
